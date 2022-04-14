@@ -1,14 +1,7 @@
----
-title: “The role of tissue-restricted antigens (TRAs) in the embryonic development”
-output:
-  html_document: 
-    toc: yes
-    keep_md: yes
-vignette: >
-  %\VignetteIndexEntry{Vignette Title}
-  %\VignetteEncoding{UTF-8}
-  %\VignetteEngine{knitr::rmarkdown}
----
+
+Topic 04: The role of tissue-restricted antigens (TRAs) in the embryonic development
+====================================================================================
+
 **Supervisor:**
 
 * Dr. Maria Dinkelacker, Institute of Pharmacy and molecular biology (IPMB) Heidelberg, m.dinkelacker@uni-heidelberg.de (Prof. Dr. Brand Saberi, University Bochum)
